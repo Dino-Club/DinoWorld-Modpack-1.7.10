@@ -19,6 +19,7 @@ First, you need to get the client [here](https://app.twitch.tv/download). After 
 
 Coming soon
 
+
 Before you can use this mod, be sure you have a strong CPU and 3GB of memory dedicated to Minecraft. SSD is also recommended, but not needed.
 
 ## List of mods used (with credit to the mod creators)
