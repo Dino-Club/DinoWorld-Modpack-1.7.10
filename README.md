@@ -7,7 +7,7 @@ This is the official modpack required for DireClanMC 1.7.10 server. This modpack
 The modpack will be available on CurseForge, but for now, will be available on GitHub. We are also working on a custom launcher that will auto-update your modpack (and launcher) for you.
 
 ## Installation
-For those with vanila launcher, make sure to have [Forge 1.7.10 Latest](https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.7.10.html) installed, then download `Mods_for_Vanilla_Launcher-x-x-x.zip` and extract its content into `/.minecraft`. (This will work the best if you have multiple instance of Minecraft and uses launcher like MultiMC). But if you are using ***PURE*** vanilla launcher, please backup your Minecraft files before using our modpack. 
+For those with vanila launcher, make sure to have [Forge 1.7.10 Latest](https://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.7.10.html) installed, then download `Mods_for_Vanilla_Launcher-x-x-x.zip` and extract its content into `/.minecraft`. (This will work the best if you have multiple instance of Minecraft and uses launcher like MultiMC). But if you are using ***PURE*** vanilla launcher, please backup your Minecraft files before using our modpack. In some case, our release may be missing a mod, which will not let you join our server. If a problem like this happen, please make a issue ticket.
 
 For those with Twitch/Curse/etc launcher, you should download `DireClanMC-x.x.x.zip`.
 
