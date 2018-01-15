@@ -1,6 +1,6 @@
-![](https://direclan.ml/images/logos/banner2.png)
+![](https://direclan.ml/images/modpack.png)
 
-# DireClanMC Modpack 1.7.10
+# DireClanMC Modpack 1.7.10 Edition
 This is the official modpack required for DireClanMC 1.7.10 server. This modpack contain mods that allow you to use computers, travel to outer space, make a railway network, build a electrical grid, and more!
 
 ## Downloads
