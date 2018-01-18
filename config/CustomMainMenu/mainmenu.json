@@ -3,11 +3,11 @@
     {        
         "minecraft":
         {
-            "image" : "web:https://i.imgur.com/Npxsmzm.png",
-            "posX" : -275,
+            "image" : "textures:menu/modpack.png",
+            "posX" : -220,
             "posY" : -110,
-            "width" : 530,
-            "height" : 90,
+            "width" : 425,
+            "height" : 85,
             "alignment" : "center"
         }
     },
@@ -22,8 +22,8 @@
             "width" : 80,
             "height" : 20,
             "alignment" : "center",
-			"texture" : "web:https://direclan.ml/mc/modpack/button.png",
-            "normalTextColor" : 6579300,
+			"texture" : "textures:menu/button.png",
+            "normalTextColor" : 8421504,
             "hoverTextColor" : 16777215,
             "shadow" : false,
 			"action" :
@@ -41,8 +41,8 @@
             "width" : 80,
             "height" : 20,
             "alignment" : "center",
-			"texture" : "web:https://direclan.ml/mc/modpack/button.png",
-            "normalTextColor" : 6579300,
+			"texture" : "textures:menu/button.png",
+            "normalTextColor" : 8421504,
             "hoverTextColor" : 16777215,
             "shadow" : false,
 			"action" :
@@ -60,8 +60,8 @@
             "width" : 80,
             "height" : 20,
             "alignment" : "center",
-			"texture" : "web:https://direclan.ml/mc/modpack/button.png",
-            "normalTextColor" : 6579300,
+			"texture" : "textures:menu/button.png",
+            "normalTextColor" : 8421504,
             "hoverTextColor" : 16777215,
             "shadow" : false,
 			"action" :
@@ -79,8 +79,8 @@
             "width" : 80,
             "height" : 20,
             "alignment" : "center",
-			"texture" : "web:https://direclan.ml/mc/modpack/button.png",
-            "normalTextColor" : 6579300,
+			"texture" : "textures:menu/button.png",
+            "normalTextColor" : 8421504,
             "hoverTextColor" : 16777215,
             "shadow" : false,
 			"action" :
@@ -98,8 +98,8 @@
             "width" : 80,
             "height" : 20,
             "alignment" : "center",
-			"texture" : "web:https://direclan.ml/mc/modpack/button.png",
-            "normalTextColor" : 6579300,
+			"texture" : "textures:menu/button.png",
+            "normalTextColor" : 8421504,
             "hoverTextColor" : 16777215,
             "shadow" : false,
 			"action" :
@@ -117,15 +117,92 @@
             "width" : 80,
             "height" : 20,
             "alignment" : "center",
-            "texture" : "web:https://direclan.ml/mc/modpack/button.png",
-            "normalTextColor" : 6579300,
-            "hoverTextColor" : 16777215,
+            "texture" : "textures:menu/button.png",
+            "normalTextColor" : 8388608,
+            "hoverTextColor" : 16733525,
             "shadow" : false,
 			"action" :
 			{
 				"type" : "quit"
 			}
-        }
+        },
+		
+		"site":
+        {
+            "text" : "Website",
+            "posX" : -170,
+            "posY" : 30,
+            "width" : 80,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "textures:menu/button.png",
+			"normalTextColor" : 8421504,
+            "hoverTextColor" : 16777215,
+            "shadow" : false,
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://direclan.ml"
+            }	
+		},
+		
+		"github":
+        {
+            "text" : "GitHub",
+            "posX" : -10,
+            "posY" : 30,
+            "width" : 80,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "textures:menu/button.png",
+			"normalTextColor" : 8421504,
+            "hoverTextColor" : 16777215,
+            "shadow" : false,
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://github.com/DireClanMC/Modpack-1.7.10"
+            }
+			
+		},
+		
+		"discord":
+        {
+            "text" : "Discord",
+            "posX" : -90,
+            "posY" : 30,
+            "width" : 80,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "textures:menu/button.png",
+			"normalTextColor" : 8421504,
+            "hoverTextColor" : 16777215,
+            "shadow" : false,
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://direclan.ml/discord/"
+            }	
+		},
+		
+		"changelogs":
+        {
+            "text" : "Changelogs",
+            "posX" : 70,
+            "posY" : 30,
+            "width" : 80,
+            "height" : 20,
+			"alignment" : "center",
+			"texture" : "textures:menu/button.png",
+			"normalTextColor" : 8421504,
+            "hoverTextColor" : 16777215,
+            "shadow" : false,
+            "action" : 
+            {
+                "type" : "openLink",
+				"link" : "https://github.com/DireClanMC/Modpack-1.7.10/releases"
+            }	
+		}
     },
    
     "texts":
@@ -150,7 +227,7 @@
 		
 		"pack":
 		{
-			"text" : "§6§lDireClan Pack §f0.4.4-§cAlpha",
+			"text" : "§6§lDireClan Pack §f1.4.4-§cAlpha",
 			"posX" : 1,
 			"posY" : 11,
 			"alignment" : "top_left"
@@ -171,9 +248,9 @@
 		
         "panorama":
         {
-            "images" : "minecraft:textures/gui/title/background/panorama_%c.png",
+            "images" : "textures:menu/curtains.jpg",
             "animate" : true,
-            "animationSpeed" : 1,
+            "animationSpeed" : 2,
             "blur" : true,
             "gradient" : true
         }
