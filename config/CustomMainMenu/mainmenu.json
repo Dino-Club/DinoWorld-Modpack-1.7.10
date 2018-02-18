@@ -142,7 +142,7 @@
             "action" : 
             {
                 "type" : "openLink",
-				"link" : "https://direclan.ml"
+				"link" : "https://direclan.ga"
             }	
 		},
 		
@@ -181,7 +181,7 @@
             "action" : 
             {
                 "type" : "openLink",
-				"link" : "https://direclan.ml/discord/"
+				"link" : "https://direclan.ga/discord/"
             }	
 		},
 		
@@ -227,7 +227,7 @@
 		
 		"pack":
 		{
-			"text" : "§6§lDireClan Pack §f1.4.4-§cAlpha",
+			"text" : "Â§6Â§lDireClan Pack Â§f1.4.4-Â§cAlpha",
 			"posX" : 1,
 			"posY" : 11,
 			"alignment" : "top_left"
