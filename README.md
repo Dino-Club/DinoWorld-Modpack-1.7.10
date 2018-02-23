@@ -1,5 +1,8 @@
 ![](https://direclan.ga/images/modpack.png)
 
+# READ THIS BEFORE CONTINUTING:
+As of Friday, Feburary 23, 2018, we at DireClan have decided to revert back to 1.12.2 vanilla server since most people in the community are unable to join our heavily modded server due to their computer not meeting the requirement. Hopefully we can return to this one day in the future alongside with our vanilla server. Thank you for all the support on this modpack.
+
 # DireClanMC Modpack 1.7.10 Edition
 This is the official modpack required for DireClanMC 1.7.10 server. This modpack contain mods that allow you to use computers, travel to outer space, make a railway network, build a electrical grid, and more!
 
